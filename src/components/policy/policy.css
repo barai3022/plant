@@ -1,0 +1,18 @@
+.section {
+    padding: 10px 50px ;
+    background-color:white;
+    min-height: 600px;
+}
+
+.section h1{
+    font-size: 100px;
+}
+.section p, .section li {
+    font-size: 35px;
+}
+.section li {
+    padding-bottom: 25px;
+}
+.section ul {
+    list-style-type: number;
+}

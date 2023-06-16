@@ -1,0 +1,12 @@
+.primary-nav {
+    padding: 5px;
+    padding-left: 35px;
+    background-color: whitesmoke;
+}
+
+.primary-nav a {
+    font-size: 20px;
+    padding: 10px;
+    color: black;
+    
+}

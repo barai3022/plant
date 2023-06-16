@@ -1,0 +1,10 @@
+.nav-induction {
+    background-color:ghostwhite;
+    padding: 10px 45px ;
+    
+}
+
+.nav-induction a {
+    padding-right: 10px;
+    font-size: 20px;
+}

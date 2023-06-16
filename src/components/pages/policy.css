@@ -1,0 +1,25 @@
+.container {
+    padding: 50px 100px ;
+    background-color: white;
+}
+
+h1 {
+    font-size: 100px;
+    
+}
+p {
+    font-size: 30px;
+    
+}
+
+
+.nav-policy {
+    background-color:#1a73e8;
+    padding: 10px 45px ;
+}
+
+.nav-policy a {
+    padding-right: 10px;
+    font-size: 20px;
+    color: white;
+}

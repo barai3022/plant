@@ -1,0 +1,33 @@
+.section {
+    padding: 10px 100px ;
+   background-color: honeydew;
+   min-height: 550px;
+}
+
+.section h1{
+    font-size: 50px;
+}
+.section p, .section li {
+    font-size: 35px;
+}
+.section li {
+    padding-bottom: 25px;
+}
+.section ul {
+    list-style-type: square;
+}
+
+table td, th {
+    font-size: 35px;
+    padding: 15px;
+    
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+  }
+
+  .nested-ul li {
+    padding: 0;
+  }
